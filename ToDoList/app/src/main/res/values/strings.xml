@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="welcome">Welcome</string>
+    <string name="get_started">Get Started</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="please_enter_a_name_for_the_list">Please Enter A Name For The List....</string>
+    <string name="list_name">List Name</string>
+    <string name="save">Save</string>
+    <string name="list__name">List Name</string>
+    <string name="deadline">Deadline</string>
+    <string name="deadline_">Deadline:</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="due_date">Due Date</string>
+    <string name="dd">dd</string>
+    <string name="slash">/</string>
+    <string name="mm">mm</string>
+    <string name="yy">yy</string>
+    <string name="tasks">Tasks:</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="date">Date</string>
+    <string name="written_at">Written At:</string>
+    <string name="due_date_">Due Date:</string>
+    <string name="description_">Description:</string>
+    <string name="no_lists_yet">No Lists Yet!</string>
+    <string name="no_tasks_yet">No Tasks Yet!</string>
+    <string name="today_s_tasks">Today\'s Tasks</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="uncompleted_tasks">Uncompleted Tasks</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="taskstype">TasksType</string>
+    <string name="tasks_">Tasks</string>
+    <string name="lists">Lists</string>
+</resources>
